@@ -2,8 +2,8 @@ import feedparser
 
 README_PATH = "README.md"
 
-til_feed = "https://your-username.github.io/TIL/feed.xml"  # Đổi thành blog hoặc TIL feed của bạn
-entries = feedparser.parse(til_feed).entries[:5]  # Lấy 5 bài mới nhất
+til_feed = "https://hiepng15.github.io/TIL/feed.xml" 
+entries = feedparser.parse(til_feed).entries[:5]  
 
 with open(README_PATH, "r", encoding="utf-8") as f:
     content = f.read()
