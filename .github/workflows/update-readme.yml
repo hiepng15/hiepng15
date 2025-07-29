@@ -1,1 +1,35 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Chạy mỗi ngày lúc 6h sáng UTC
+  workflow_dispatch:     # Cho phép chạy thủ công
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        pip install feedparser
+
+    - name: Update README
+      run: |
+        python update_readme.py
+
+    - name: Commit changes
+      run: |
+        git config --global user.email "action@github.com"
+        git config --global user.name "GitHub Action"
+        git add README.md
+        git commit -m "🤖 Auto-update README" || echo "No changes to commit"
+        git push
 
