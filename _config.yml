@@ -1,0 +1,7 @@
+title: hiepng15's Blog
+description: A blog about learning and projects
+baseurl: ""  
+url: "https://hiepng15.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
