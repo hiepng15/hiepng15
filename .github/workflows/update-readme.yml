@@ -2,8 +2,8 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # Chạy mỗi ngày lúc 6h sáng UTC
-  workflow_dispatch:     # Cho phép chạy thủ công
+    - cron: '0 6 * * *'  # Run everyday at 6 UTC
+  workflow_dispatch:     # Allow manual run 
 
 jobs:
   build:
