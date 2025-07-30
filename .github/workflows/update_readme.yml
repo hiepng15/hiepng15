@@ -1,0 +1,32 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # run 6AM every day
+  workflow_dispatch:     # allow run manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+
+    - name: Build README
+      run: python build_readme.py
+
+    - name: Commit README changes
+      run: |
+        git config --global user.email "your_email@example.com"
+        git config --global user.name "your_github_username"
+        git add README.md
+        git commit -m "🤖 Auto-update README" || echo "No changes to commit"
+        git push
