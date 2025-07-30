@@ -1,18 +1,21 @@
-🎓 Passionate about Signal Processing, Computer Vision & AI  
-🔬 Research Assistant  
-📖 Sharing what I learn, one day at a time.
+## 👨‍🔬 Mechatronics Engineer | 🎓 MSc Student @ Uni Hannover | 🔬 Research Assistant
+
+💡 Passionate about **Digital Signal & Image Processing**, **Computer Vision**, and **AI**   
+🚀 Exploring ideas through research and code  
+🌍 Open to collaboration & knowledge exchange  
+📚 Sharing what I learn, one day at a time 
 
 More on: https://hiepng15.github.io/
 
 <hr style="border: 3px solid #000000;" />
 
 
-## 📰 My personal Blog Posts
+### 📰 My personal Blog Posts
 <!-- BLOG_SECTION -->
 *(Updating daily...)*
 <!-- END_BLOG_SECTION -->
 
-## 📝 Recent TILs
+### 📝 Recent TILs
 <!-- TIL_SECTION -->
 *(Updating daily...)*
 <!-- END_TIL_SECTION -->
