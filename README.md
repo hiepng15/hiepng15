@@ -20,12 +20,15 @@ More on: https://hiepng15.github.io/
 ###
 <hr style="border: 3px solid #000000;" />
 
-<!-- Badge build passing -->
-![Build Status](https://github.com/hiepng15/hiepng15/actions/workflows/main.yml/badge.svg)
+<a href="https://github.com/hiepng15/hiepng15/actions">
+  <img src="https://github.com/hiepng15/hiepng15/workflows/Build%20README/badge.svg" align="right" alt="Build README" />
+</a>
 
-<div style="position: fixed; bottom: 10px; right: 10px; z-index: 1000;">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hiepng15.hiepng15" alt="visitor badge" style="width: 120px; height: auto;" />
-</div>
+<a href="https://visitor-badge.laobi.icu/badge?page_id=hiepng15.hiepng15&title=Visits">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hiepng15.hiepng15&title=Visits" align="right" alt="Visits" />
+</a>
+
+
 
 
 
