@@ -16,6 +16,5 @@ More on: https://hiepng15.github.io/
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+![Visitor Count](https://komarev.com/ghpvc/?username=hiepng15)
+
