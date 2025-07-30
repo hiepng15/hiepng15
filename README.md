@@ -1,4 +1,4 @@
-## 👨‍🔬 Mechatronics Engineer | 🎓 MSc Student @ Uni Hannover | 🔬 Research Assistant
+## Mechatronics Engineer | MSc Student @ Uni Hannover | Research Assistant
 
 💡 Passionate about **Digital Signal & Image Processing**, **Computer Vision**, and **AI**   
 🚀 Exploring ideas through research and code  
