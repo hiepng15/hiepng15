@@ -16,5 +16,9 @@ More on: https://hiepng15.github.io/
 
 ###
 
-![Visitor Count](https://komarev.com/ghpvc/?username=hiepng15)
+<!-- Visitor badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hiepng15&label=👁️+Visitors&color=0e75b6&style=flat-square" alt="Visitor Count" />
+</p>
+
 
