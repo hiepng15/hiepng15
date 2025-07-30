@@ -20,9 +20,12 @@ More on: https://hiepng15.github.io/
 ###
 <hr style="border: 3px solid #000000;" />
 
-<!-- Visitor badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hiepng15&label=👁Visitors&color=0e75b6&style=flat-square" alt="Visitor Count" />
-</p>
+<!-- Badge build passing -->
+![Build Status](https://github.com/hiepng15/hiepng15/actions/workflows/main.yml/badge.svg)
+
+<div style="position: fixed; bottom: 10px; right: 10px; z-index: 1000;">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hiepng15.hiepng15" alt="visitor badge" style="width: 120px; height: auto;" />
+</div>
+
 
 
