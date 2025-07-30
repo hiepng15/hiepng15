@@ -4,8 +4,10 @@
 
 More on: https://hiepng15.github.io/
 
-## My personal Blog
-...
+## 📰 My personal Blog Posts
+<!-- BLOG_SECTION -->
+*(Updating daily...)*
+<!-- END_BLOG_SECTION -->
 
 ## 📝 Recent TILs
 <!-- TIL_SECTION -->
