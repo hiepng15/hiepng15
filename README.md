@@ -10,15 +10,11 @@ More on: https://hiepng15.github.io/
 <hr style="border: 3px solid #000000;" />
 
 
-### 📰 My personal Blog Posts
+### 📰 My personal Blog Posts and TIL
 <!-- BLOG_SECTION -->
 *(Updating daily...)*
 <!-- END_BLOG_SECTION -->
 
-### 📝 Recent TILs
-<!-- TIL_SECTION -->
-*(Updating daily...)*
-<!-- END_TIL_SECTION -->
 
 ###
 <hr style="border: 3px solid #000000;" />
