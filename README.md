@@ -10,7 +10,7 @@ More on: https://hiepng15.github.io/
 <hr style="border: 3px solid #000000;" />
 
 
-### 📰 My personal Blog Posts and TIL
+### 📰 My Personal Blog Posts and TILs
 <!-- BLOG_SECTION -->
 *(Updating daily...)*
 <!-- END_BLOG_SECTION -->
