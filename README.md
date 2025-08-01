@@ -12,6 +12,7 @@ More on: https://hiepng15.github.io/
 
 ### 📰 My Personal Blog Posts and TILs
 <!-- BLOG_SECTION -->
+https://hiepng15.github.io/blog/posts/my-chilhood.html
 *(Updating daily...)*
 <!-- END_BLOG_SECTION -->
 
