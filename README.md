@@ -9,14 +9,6 @@ More on: https://hiepng15.github.io/
 <hr style="border: 3px solid #000000;" />
 
 
-### 📰 My Personal Blog Posts and TILs
-<!-- BLOG_SECTION -->
-https://hiepng15.github.io/blog/posts/my-chilhood.html
-
-*(Updating daily...)*
-<!-- END_BLOG_SECTION -->
-
-
 ###
 <hr style="border: 3px solid #000000;" />
 
