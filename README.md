@@ -3,7 +3,6 @@
 💡 Passionate about **Digital Signal & Image Processing**, **Computer Vision**, and **AI**   
 🚀 Exploring ideas through research and code  
 🌍 Open to collaboration & knowledge exchange  
-📚 Sharing what I learn, one day at a time 
 
 More on: https://hiepng15.github.io/
 
