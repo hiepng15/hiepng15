@@ -8,6 +8,10 @@ More on: https://hiepng15.github.io/
 
 <hr style="border: 3px solid #000000;" />
 
+## Projects
+
+### [fast-jpeg-cython](https://github.com/hiepng15/fast-jpeg-cython)  
+A high-performance, custom JPEG Encoder & Decoder built from scratch using **Python** and **Cython** (**3x faster 
 
 ###
 <hr style="border: 3px solid #000000;" />
