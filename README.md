@@ -1,8 +1,8 @@
 ## Mechatronics Engineer | MSc Student @ Uni Hannover | Research Assistant
 
-💡 Passionate about **Digital Signal & Image Processing**, **Computer Vision**, and **AI**   
-🚀 Exploring ideas through research and code  
-🌍 Open to collaboration & knowledge exchange  
+Passionate about **Digital Signal & Image Processing**, **Computer Vision**, and **AI**   
+Exploring ideas through research and code  
+Open to collaboration & knowledge exchange  
 
 More on: https://hiepng15.github.io/
 
@@ -10,8 +10,8 @@ More on: https://hiepng15.github.io/
 
 ## Projects
 
-### [fast-jpeg-cython](https://github.com/hiepng15/fast-jpeg-cython)  
-A high-performance, custom JPEG Encoder & Decoder built from scratch using **Python** and **Cython** (**3x faster 
+### [fast-jpeg-cython](https://github.com/hiepng15/fast-jpeg-cython)  A blazing-fast JPEG Encoder & Decoder crafted from scratch using **Python** and **Cython**, delivering **3× the speed of Pillow** while maintaining full flexibility and control.
+ 
 
 ###
 <hr style="border: 3px solid #000000;" />
