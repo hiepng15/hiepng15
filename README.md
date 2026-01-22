@@ -10,7 +10,8 @@ More on: https://hiepng15.github.io/
 
 ## Projects
 
-### [fast-jpeg-cython](https://github.com/hiepng15/fast-jpeg-cython)  A blazing-fast JPEG Encoder & Decoder crafted from scratch using **Python** and **Cython**, delivering **3× the speed of Pillow** while maintaining full flexibility and control.
+### [fast-jpeg-cython](https://github.com/hiepng15/fast-jpeg-cython)  
+A blazing-fast JPEG Encoder & Decoder crafted from scratch using **Python** and **Cython**, delivering **3× the speed of Pillow** while maintaining full flexibility and control.
  
 
 ###
