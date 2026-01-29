@@ -1,10 +1,8 @@
-## Mechatronics Engineer | MSc Student @ Uni Hannover | Research Assistant
+## Hi, I'm Hiep
 
 Passionate about **Digital Signal & Image Processing**, **Computer Vision**, and **AI**   
 Exploring ideas through research and code  
 Open to collaboration & knowledge exchange  
-
-More on: https://hiepng15.github.io/
 
 <hr style="border: 3px solid #000000;" />
 
