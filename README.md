@@ -8,11 +8,15 @@ Open to collaboration & knowledge exchange
 
 ## Projects
 
+### [budget-aware-unseen-nas](https://github.com/hiepng15/budget-aware-unseen-nas)
+A clock-aware and resource-safe hybrid macro-NAS pipeline for unseen image-classification tasks.  
+
 ### [fast-jpeg](https://github.com/hiepng15/fast-jpeg)  
 A blazing-fast JPEG Encoder & Decoder crafted from scratch using **Python** and **Cython**, delivering **3× the speed of Pillow** while maintaining full flexibility and control.
 
-### [budget-aware-unseen-nas](https://github.com/hiepng15/budget-aware-unseen-nas)
-A clock-aware and resource-safe hybrid macro-NAS pipeline for unseen image-classification tasks.  
+### [acoustic-emission-wire-break-detection](https://github.com/hiepng15/acoustic-emission-wire-break-detection)  
+Project period: 2024
+Originally developed in 2024 as part of my bachelor’s thesis at Leibniz University Hannover.
 
 ###
 <hr style="border: 3px solid #000000;" />
