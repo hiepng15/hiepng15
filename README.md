@@ -14,6 +14,9 @@ A clock-aware and resource-safe hybrid macro-NAS pipeline for unseen image-class
 ### [fast-jpeg](https://github.com/hiepng15/fast-jpeg)  
 A blazing-fast JPEG Encoder & Decoder crafted from scratch using **Python** and **Cython**, delivering **3× the speed of Pillow** while maintaining full flexibility and control.
 
+### [real-time-invisible-cloak](https://github.com/hiepng15/real-time-invisible-cloak)
+A real-time OpenCV invisible cloak application, originally developed in 2025. Features HSV segmentation, temporal noise reduction, mask refinement, background replacement, CLI support, and automated tests.
+
 ### [acoustic-emission-wire-break-detection](https://github.com/hiepng15/acoustic-emission-wire-break-detection)  
 Project period: 2024
 Originally developed in 2024 as part of my bachelor’s thesis at Leibniz University Hannover.
