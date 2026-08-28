@@ -10,6 +10,7 @@ Open to collaboration & knowledge exchange
 
 ### [budget-aware-unseen-nas](https://github.com/hiepng15/budget-aware-unseen-nas)
 **7th place in the NAS Unseen-Data Competition 2026 — 9.62 points.**
+
 A clock-aware and resource-safe hybrid macro-NAS pipeline for unseen image-classification tasks. 
 
 ### [fast-jpeg](https://github.com/hiepng15/fast-jpeg)  
