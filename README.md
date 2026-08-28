@@ -9,6 +9,7 @@ Open to collaboration & knowledge exchange
 ## Projects
 
 ### [budget-aware-unseen-nas](https://github.com/hiepng15/budget-aware-unseen-nas)
+7th place in the NAS Unseen-Data Competition 2026
 A clock-aware and resource-safe hybrid macro-NAS pipeline for unseen image-classification tasks.  
 
 ### [fast-jpeg](https://github.com/hiepng15/fast-jpeg)  
